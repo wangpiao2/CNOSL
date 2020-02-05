@@ -5,4 +5,4 @@
 
 
 We provide online review on the wiki page of this repository and .docx file for your convenience.
-All Chinese texts under this repository applie CC BY-NC-SA 4.0 (Attribution-Non Commercial-Share Alike 4.0 International).
+All Chinese texts under this repository apply CC BY-NC-SA 4.0 (Attribution-Non Commercial-Share Alike 4.0 International).
