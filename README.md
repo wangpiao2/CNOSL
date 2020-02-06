@@ -2,13 +2,13 @@
 可读且准确的开源协议中文翻译企划 | A Project on Readable and Accurate Open-source License Translation in Chinese.
 ------------
 
-就目前而言，现有的各种开源许可证的中文翻译确实很难阅读，即使我的母语是中文，同时还是一名中国律师，现有的中文版本阅读起来仍然非常困难。另外，从法律专业人士的角度来看，目前的中文版很多许可证都有很多错误和含糊不清之处。
+就目前而言，现有的各种开源许可证的中文翻译确实很难阅读，即使我的母语是中文，同时还是一名中国律师，现有的中文版本阅读起来仍然非常困难。另外，从法律专业人士的角度来看，现有的中文版很多许可证也存在很多错误和含糊不清之处。
 
 因此，我发起了这个项目，以提供专业、细致的开源许可证翻译，以便开发者、律师和法学院学生等对开源和知识产权感兴趣的人获取可用于学习和研究的材料。
 
 我打算从翻译[GNU通用公共许可协议v3](https://www.GNU.org/licenses/gpl-3.0.html)开始这个项目。我相信完全理解GPL将帮助各位打开理解开源世界的大门。在我的中文版GPL协议完成后，我将继续翻译其他自由软件许可协议和开源许协议。所有翻译将更新在该Repository的[wiki页面]（https://github.com/ireia/CNOSL/wiki）上，并且.docx（word文档）文件也将在此页面中提供。
 
-为了您的方便，我在该Repository和.docx文件的[wiki页面](https://github.com/ireia/CNOSL/wiki)上提供在线阅读。
+该Repository将直接提供开源协议翻译版本的.docx文件，并且在[wiki页面](https://github.com/ireia/CNOSL/wiki)上提供在线阅读。
 
 ------------
 As currently presented, existing Chinese translations of various open-source licenses are really difficult to read, even if I speak Chinee Mandarin and I'm qualified PRC lawyer. Also, from the perspective of a legal professional, current Chinese texts of many licenses contain numerous mistakes and ambiguities.  
