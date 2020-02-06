@@ -7,16 +7,22 @@
 因此，我发起了这个项目，以提供专业、细致的开源许可证翻译，以便开发者、律师和法学院学生等对开源和知识产权感兴趣的人获取可用于学习和研究的材料。
 
 我打算从翻译[GNU通用公共许可协议v3](https://www.GNU.org/licenses/gpl-3.0.html)开始这个项目。我相信完全理解GPL将帮助各位打开理解开源世界的大门。在我的中文版GPL协议完成后，我将继续翻译其他自由软件许可协议和开源许协议。所有翻译将更新在该Repository的[wiki页面]（https://github.com/ireia/CNOSL/wiki）上，并且.docx（word文档）文件也将在此页面中提供。
-
+    
+    
 > 翻译中的GPL协议中英对照版详见：[GNU General Public License v3 EN&CN](https://github.com/ireia/CNOSL/wiki/GNU-General-Public-License-v3--EN&CN)
 
+  
 该Repository将直接提供开源协议翻译版本的.docx文件，并且在[wiki页面](https://github.com/ireia/CNOSL/wiki)上提供在线阅读。
 
 ------------
 As currently presented, existing Chinese translations of various open-source licenses are really difficult to read, even if I speak Chinee Mandarin and I'm qualified PRC lawyer. Also, from the perspective of a legal professional, current Chinese texts of many licenses contain numerous mistakes and ambiguities.  
 
 Therefore, I initiated this Project, to provided a professional and tailored translation of open-source licenses so that developers, lawyers, law school students, and other individuals who share an interest in open-source and intellectual property rights could obtain usable materials for their study and research.
+    
+    
+> Blingual version of GPLv3(English & Chinese), please see：[GNU General Public License v3 EN&CN](https://github.com/ireia/CNOSL/wiki/GNU-General-Public-License-v3--EN&CN)
 
+  
 I intend to start this Project with the translation of [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.html). I believe understanding GPL thoroughly will open the gate of understanding the open-source world. After completion of my Chinese version of GPL License, I'll continue to translate other free software licenses and open-source licenses. All translations will be updated on the [wiki page](https://github.com/ireia/CNOSL/wiki) of this repository, and .docx file will also be provided in this page.
 
 I provide the online review on the [wiki page](https://github.com/ireia/CNOSL/wiki) of this Repository and .docx file for your convenience.
