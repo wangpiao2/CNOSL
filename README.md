@@ -25,7 +25,7 @@ I provide the online review on the [wiki page](https://github.com/ireia/CNOSL/wi
 
 **All Chinese texts and other original texts under this repository apply [CC BY-NC-SA 4.0 (Attribution-Non Commercial-Share Alike 4.0 International)](https://creativecommons.org/licenses/by-nc-sa/4.0/).**
 
-**请注意：您可以自由地共享和改编本Repository下的所有中文文本和其他非第三方文本（以下简称“作品”），但您必须进行署名，提供指向本Repository的链接，并在共享或改编本作品时指明您是否修改了材料，并对修改进行标注。除非另经书面同意，否则您不得将本作品或从本作品中获得的任何材料用于商业目的。如果您改编（混合、转换或在此基础上创作）作品，则必须在与原原始作品相同的许可下分发您的作品。 **
+**请注意：您可以自由地共享和改编本Repository下的所有中文文本和其他非第三方文本（以下简称“作品”），但您必须进行署名，提供指向本Repository的链接，并在共享或改编本作品时指明您是否修改了材料，并对修改进行标注。除非另经书面同意，否则您不得将本作品或从本作品中获得的任何材料用于商业目的。如果您改编（混合、转换或在此基础上创作）作品，则必须在与原原始作品相同的许可下分发您的作品。**
 
 **本Repository下的所有中文文本以及其他非第三方文本适用[署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)版知识共享协议](https://creativecommons.org/licenses/by-nc-sa/4.0/).**
 
