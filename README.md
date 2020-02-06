@@ -10,9 +10,10 @@ I intend to start this Project with the translation of [GNU General Public Licen
 
 I provide online review on the [wiki page](https://github.com/ireia/CNOSL/wiki) of this repository and .docx file for your convenience.
 
-*Please noted that:* ++ you are free to share and adapt all Chinese texts (hereinafter the Work) under this repository, but you must give appropriate credit, provide a link to this repository, and indicate if you modified the material and retain an indication of previous modifications while you share or adapt the Work. You must not use the Work or any material derived from the Work for commercial purposes unless otherwise agreed by me in written from.  If you adapt(remix, transform, or build upon) the Work, you must distribute your contributions under the same license as the original.++  
+**Please noted that: you are free to share and adapt all Chinese texts (hereinafter the Work) under this repository, but you must give appropriate credit, provide a link to this repository, and indicate if you modified the material and retain an indication of previous modifications while you share or adapt the Work. You must not use the Work or any material derived from the Work for commercial purposes unless otherwise agreed by me in written from.  If you adapt(remix, transform, or build upon) the Work, you must distribute your contributions under the same license as the original.**
 
-All Chinese texts under this repository apply [CC BY-NC-SA 4.0 (Attribution-Non Commercial-Share Alike 4.0 International)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+**All Chinese texts under this repository apply [CC BY-NC-SA 4.0 (Attribution-Non Commercial-Share Alike 4.0 International)](https://creativecommons.org/licenses/by-nc-sa/4.0/).**
+
 ------------
 
 Contact me:
