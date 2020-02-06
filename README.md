@@ -8,6 +8,8 @@
 
 我打算从翻译[GNU通用公共许可协议v3](https://www.GNU.org/licenses/gpl-3.0.html)开始这个项目。我相信完全理解GPL将帮助各位打开理解开源世界的大门。在我的中文版GPL协议完成后，我将继续翻译其他自由软件许可协议和开源许协议。所有翻译将更新在该Repository的[wiki页面]（https://github.com/ireia/CNOSL/wiki）上，并且.docx（word文档）文件也将在此页面中提供。
 
+> 翻译中的GPL协议中英对照版详见：[GNU General Public License v3 EN&CN](https://github.com/ireia/CNOSL/wiki/GNU-General-Public-License-v3--EN&CN)
+
 该Repository将直接提供开源协议翻译版本的.docx文件，并且在[wiki页面](https://github.com/ireia/CNOSL/wiki)上提供在线阅读。
 
 ------------
